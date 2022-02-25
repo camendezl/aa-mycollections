@@ -1,4 +1,5 @@
 ---
+guid: 2f24
 instances:
   - name: app1
     image: rhel-8.3
